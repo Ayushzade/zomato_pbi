@@ -1,4 +1,4 @@
-###Zomato Power BI Dashboard Overview
+****Zomato Power BI Dashboard Overview****
 
 
 This Power BI dashboard provides a comprehensive analysis of Zomato's business performance and user engagement. It offers insights into key metrics, including sales trends, user demographics, and order statistics, allowing stakeholders to understand the platform's growth and operational reach.
