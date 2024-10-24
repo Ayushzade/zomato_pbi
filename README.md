@@ -8,6 +8,7 @@ This Power BI dashboard provides a comprehensive analysis of Zomato's business p
 
 **1. Service Reach:**
 
+![Screenshot 2024-10-24 090717](https://github.com/user-attachments/assets/f592cc73-92a0-444c-9d48-ec45b6d830f4)
 
 Zomato operates in 821+ cities, connecting with over 77,929 users.
 
@@ -17,6 +18,7 @@ The platform has completed more than 298,952 orders, showcasing extensive servic
 
 **2.Sales Analysis**
 
+![Screenshot 2024-10-24 090737](https://github.com/user-attachments/assets/2866fcb4-6075-44ce-b874-feb1e40dd49b)
 
 Current Year Sales: The dashboard shows a significant growth in sales, with the current year's revenue reaching 989 million.
 Previous Year Sales: Recorded at 337 million, indicating a substantial increase in sales performance.
